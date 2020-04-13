@@ -126,3 +126,4 @@ CRISPY_TEMPLATE_PACK='bootstrap3'
 
 LOGIN_REDIRECT_URL='blog-home'
 LOGIN_URL='login'
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
